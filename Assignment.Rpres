@@ -12,9 +12,11 @@ This was built as part of a deliverable for the course Developing Data products.
 The app developed for the first part of the assignment demo is avalilable at:
 https://tezosman.shinyapps.io/Presentation
 
-
 Source code for ui.R and server.R files are available on the GitHub repo:
+https://github.com/tezosman/Coursera-Shiny-Assignment
 
+Presentation Can be found on RPubs:
+http://rpubs.com/tezosman/Project
 
 Functionality
 ========================================================
